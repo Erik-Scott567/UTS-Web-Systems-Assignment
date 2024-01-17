@@ -1,0 +1,181 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: darkblue;
+
+
+}
+
+.sections {
+    text-align: center;
+    word-spacing: 50px;
+    letter-spacing: 5px;
+    border: 2px solid darkblue;
+    background-color: darkblue;
+    padding: 2px;
+    margin-bottom: 10px;
+    
+}
+
+.Introduction {
+    background-color: darkblue;
+    border: solid 3px lightskyblue;
+    padding-left: 5px;
+    color: white;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 20px;
+
+    padding: 10px;
+
+
+}
+
+.swim_photo {
+    text-align: center;
+    margin-left:195px;
+    margin-right:178px;
+    margin-top: 100px;
+    margin-bottom:100px;
+}
+
+#email {
+    text-align: right;
+    padding-top: 10px;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: lightskyblue;
+}
+
+.foot {
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    margin-top: 20px;
+}
+html {
+    background-color:lightskyblue;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.history {
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: solid 1px skyblue;
+    margin-bottom: 10px;
+}
+
+
+.IB {
+    text-align: right;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: solid 1px skyblue;
+    margin-bottom: 10px;
+}
+
+.code_list {
+    text-align: left;
+    padding-left: 735px;
+}
+.past_content {
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: darkblue;
+    color: white;
+    padding:20px;
+}
+
+.project {
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border: solid 1px skyblue;
+}
+
+.project__photo{
+    text-align: center;
+}
+
+.future_plans {
+    background-color: darkblue;
+    padding-left: 5px;
+    color: white;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.Immediate {
+
+}
+.noplans{
+    display: flex;
+    justify-content:center;
+    align-items: top;
+
+
+}
+.noplan-image {
+
+    
+}
+
+.noplan-text {
+    padding-left: 10px;
+}
+
+.comms {
+    background-color: darkblue;
+    padding-left: 5px;
+    color: white;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.index_table {
+    margin: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.element_table {
+    border-collapse: collapse;
+    margin: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.color_image {
+    float: right;
+    margin-left: 5px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.table-heading {
+    text-align: center;
+}
+
